@@ -137,6 +137,4 @@ A Python Jupyter Notebook that was used to displays the first few rows of each t
 >3. os
 >4. pandas 
 
-## About me
----
-I'm mohamed bekheet, you con browser other repository on my [github profile](https://github.com/mohamedbakhet) and view my [linkedin page](https://www.linkedin.com/in/mohamedbekheet-/) and [kaggle profile](https://www.kaggle.com/mohamedbakhet) and you can contect with me throgth mohamedbekheet33@gmail.com
+ 
